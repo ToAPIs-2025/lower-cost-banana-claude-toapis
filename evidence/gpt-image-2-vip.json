@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M518CYSRDG66YFVFYAVZ4DJE",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "A flaky original chocolate croissant on a cream ceramic plate beside a small espresso cup, warm bakery window light, refined editorial food photograph, rich layers of pastry, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "A flaky original chocolate croissant on a cream ceramic plate beside a small espresso cup, warm bakery window light, refined editorial food photograph, rich layers of pastry, no text, no logos, square composition.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "3bc3c9d3469d864fafe087a98a50a259d2af7959581b83c786881d2e45d5301b",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

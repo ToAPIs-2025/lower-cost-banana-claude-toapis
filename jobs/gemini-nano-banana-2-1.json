@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gemini-nano-banana-2.1",
+  "prompt": "A flaky original chocolate croissant on a cream ceramic plate beside a small espresso cup, warm bakery window light, refined editorial food photograph, rich layers of pastry, no text, no logos, square composition.",
+  "size": "1024x1024",
+  "run_id": "1016-bc-2",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "evidence": "evidence/gemini-nano-banana-2-1.json"
+}

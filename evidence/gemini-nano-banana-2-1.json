@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M518BCD0NDE3HCQB2VBFRX5D",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "A flaky original chocolate croissant on a cream ceramic plate beside a small espresso cup, warm bakery window light, refined editorial food photograph, rich layers of pastry, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "A flaky original chocolate croissant on a cream ceramic plate beside a small espresso cup, warm bakery window light, refined editorial food photograph, rich layers of pastry, no text, no logos, square composition.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "30fb29f679d722cc32a3d35d499cfb7a0514b10a4f1f8d26e02e9dad0a1cd119",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}
